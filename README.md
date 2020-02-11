@@ -9,12 +9,19 @@ About The Moon:
 "Fly me to the moon, let me play among the star"
 "let me see what spring is like, on Jupiter and marss"
 
-Increased the Sun heat:
+Increased the Sun power:
 -------------------------------------
-function increaseSunHeat(){
+function increaseSunPower(){
     let Sun = Sun.exe;
-    let newSun = sun.increase(heat);
+    let newSun = sun.increase(power);
     return newSun
 }
-increaseSunHeat();
+increaseSunPower();
 -------------------------------------
+
+Increased the Sun heat:
+------------------------------
+function(){
+    for(i=1;i>1 i++);
+};
+------------------------------
